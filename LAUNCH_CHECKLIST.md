@@ -1,4 +1,4 @@
-# Replynara — £0 commercial launch checklist (10 November 2026)
+# Reply Nara — £0 commercial launch checklist (10 November 2026)
 
 ## Prepared (not yet published commercially)
 - Static site: `index.html`, `partners.html`, `privacy.html` and browser-only demo
@@ -8,8 +8,8 @@
 
 ## Required operator actions and approvals
 1. **Host**: Authorise a free commercial static hosting provider (Render Static Site or Netlify Free). Confirm free usage limits and commercial terms. A provider login may be required. Do NOT host commercial operation on Vercel Hobby.
-2. **Identity**: Confirm who legally operates Replynara and publish required name and address / appropriate service address, updating the final privacy notice and trading disclosures. Do not fabricate personal identity.
-3. **Brand**: Check Companies House and UKIPO trademarks before promoting Replynara as a cleared trademark.
+2. **Identity**: Confirm who legally operates Reply Nara and publish required name and address / appropriate service address, updating the final privacy notice and trading disclosures. Do not fabricate personal identity.
+3. **Brand**: Check Companies House and UKIPO trademarks before promoting Reply Nara as a cleared trademark.
 4. **Privacy**: Finalise lawful basis, retention, Gmail use, service providers, rights request process, controller contact, security and ICO fee/self-assessment. Replace the clearly marked draft privacy page.
 5. **Enquiry collection**: Keep mailto-only until legal notice is completed. If later deploying a form, choose a secure processing provider, define retention and anti-spam, prevent collecting other businesses' customer records, and assess processors/contracts.
 6. **Payments**: Connect your own Stripe account (or another regulated payment provider), complete identity, bank verification and any business checks. Finalise scope/contract, cancellation and invoice details before enabling any checkout. No fake checkout, fake card input or payments collected by the static site.
